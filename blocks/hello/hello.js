@@ -15,4 +15,4 @@ export default async function init(el) {
     if (textArr[0]) window.gsap.to(helloEl, { x: 200 });
     if (textArr[1]) window.gsap.to(nameEl, { x: 400 });
   }
-}
+} 
