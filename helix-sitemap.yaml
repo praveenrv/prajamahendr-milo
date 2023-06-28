@@ -8,7 +8,7 @@ sitemaps:
       default:
         source: /blog/query-index.json
         destination: /blog/sitemap.xml
-        hreflang: en
+        hreflang: en-US
         alternate: /{path}
       de:
         source: /de/blog/query-index.json
